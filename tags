@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+create_contract	api-example.py	/^def create_contract(symbol, sec_type, exch, prim_exch, curr):$/;"	f
+create_order	api-example.py	/^def create_order(order_type, quantity, action):$/;"	f
+error_handler	api-example.py	/^def error_handler(msg):$/;"	f
+goog_contract	api-example.py	/^    goog_contract = create_contract('GOOG', 'STK', 'SMART', 'SMART', 'USD')$/;"	v
+goog_order	api-example.py	/^    goog_order = create_order('MKT', 100, 'BUY')$/;"	v
+order_id	api-example.py	/^    order_id = 1$/;"	v
+reply_handler	api-example.py	/^def reply_handler(msg):$/;"	f
+tws_conn	api-example.py	/^    tws_conn = Connection.create(port=7496, clientId=100)$/;"	v
