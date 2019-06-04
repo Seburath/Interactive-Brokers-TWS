@@ -5,11 +5,650 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+AddSubscriptionDlg	trading-with-python/trunk/lib/interactivebrokers.py	/^class AddSubscriptionDlg(QDialog):$/;"	c
+BATS_Data	trading-with-python/trunk/lib/bats.py	/^class BATS_Data(object):$/;"	c
+Backtest	trading-with-python/trunk/lib/backtest.py	/^class Backtest(object):$/;"	c
+Broker	trading-with-python/trunk/lib/interactivebrokers.py	/^class Broker(object):$/;"	c
+Broker	trading-with-python/trunk/nautilus/nautilus.py	/^class Broker(Sender):$/;"	c
+BrokerWidget	trading-with-python/trunk/lib/interactivebrokers.py	/^class BrokerWidget(QWidget):$/;"	c
+DataFrameModel	trading-with-python/trunk/lib/qtpandas.py	/^class DataFrameModel(QAbstractTableModel):$/;"	c
+DataFrameWidget	trading-with-python/trunk/lib/qtpandas.py	/^class DataFrameWidget(QWidget):$/;"	c
+DataHandler	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^class DataHandler(object):$/;"	c
+DateTimeScaleEngine	trading-with-python/trunk/cookbook/scales.py	/^class DateTimeScaleEngine(Qwt5.QwtLinearScaleEngine):$/;"	c
+DeltaTimeScaleDraw	trading-with-python/trunk/cookbook/scales.py	/^class DeltaTimeScaleDraw(FancyScaleDraw):$/;"	c
+DeltaTimeScaleEngine	trading-with-python/trunk/cookbook/scales.py	/^class DeltaTimeScaleEngine(Qwt5.QwtLinearScaleEngine):$/;"	c
+Downloader	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^class Downloader(object):$/;"	c
+Downloader	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^class Downloader(object):$/;"	c
+Downloader	trading-with-python/trunk/lib/interactivebrokers.py	/^class Downloader(object):$/;"	c
+ExampleListener	trading-with-python/trunk/lib/eventSystem.py	/^class ExampleListener(object):$/;"	c
+FancyScaleDraw	trading-with-python/trunk/cookbook/scales.py	/^class FancyScaleDraw(Qwt5.QwtScaleDraw):$/;"	c
+FigureCanvas	trading-with-python/trunk/lib/widgets.py	/^from matplotlib.backends.backend_qt4agg import FigureCanvasQTAgg as FigureCanvas$/;"	x
+FixedLabelsScaleDraw	trading-with-python/trunk/cookbook/scales.py	/^class FixedLabelsScaleDraw(FancyScaleDraw):$/;"	c
+FixedLabelsScaleEngine	trading-with-python/trunk/cookbook/scales.py	/^class FixedLabelsScaleEngine(Qwt5.QwtLinearScaleEngine):$/;"	c
+Form	trading-with-python/trunk/lib/interactivebrokers.py	/^class Form(QDialog):$/;"	c
+Form	trading-with-python/trunk/lib/qtpandas.py	/^class Form(QDialog):$/;"	c
+Form	trading-with-python/trunk/nautilus/nautilus.py	/^class Form(QDialog):$/;"	c
+Form	trading-with-python/trunk/sandbox/dataModels.py	/^class Form(QDialog):$/;"	c
+Future	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^class Future(object):$/;"	c
+Future	trading-with-python/trunk/lib/vixFutures.py	/^class Future(object):$/;"	c
+HistData	trading-with-python/trunk/lib/yahooFinance.py	/^class HistData(object):$/;"	c
+HistDataCsv	trading-with-python/trunk/lib/csvDatabase.py	/^class HistDataCsv(object):$/;"	c
+HistDatabase	trading-with-python/trunk/lib/csvDatabase.py	/^class HistDatabase(object):$/;"	c
+IBDataCache	x.py	/^class IBDataCache(object):$/;"	c
+MainForm	trading-with-python/trunk/cookbook/guiqwt_CurveDialog.py	/^class MainForm(QDialog):$/;"	c
+MainForm	trading-with-python/trunk/lib/widgets.py	/^class MainForm(QMainWindow):$/;"	c
+MainForm	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^class MainForm(QDialog):$/;"	c
+MatplotlibWidget	trading-with-python/trunk/lib/widgets.py	/^class MatplotlibWidget(QWidget):$/;"	c
+MessageHandler	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^class MessageHandler(object):$/;"	c
+NavigationToolbar	trading-with-python/trunk/lib/widgets.py	/^from matplotlib.backends.backend_qt4agg import NavigationToolbar2QTAgg as NavigationToolbar$/;"	x
+PlotWindow	trading-with-python/trunk/lib/widgets.py	/^class PlotWindow(QMainWindow):$/;"	c
+Portfolio	trading-with-python/trunk/lib/classes.py	/^class Portfolio(object):$/;"	c
+PriceListener	trading-with-python/trunk/nautilus/nautilus.py	/^class PriceListener(qtpandas.DataFrameModel):$/;"	c
+ProgressBar	trading-with-python/trunk/lib/backtest.py	/^class ProgressBar:$/;"	c
+ProgressBar	trading-with-python/trunk/lib/extra.py	/^class ProgressBar:$/;"	c
+RT_MANIFEST	trading-with-python/trunk/spreadApp/makeDist.py	/^RT_MANIFEST = 24$/;"	v
+Sender	trading-with-python/trunk/lib/eventSystem.py	/^class Sender(object):$/;"	c
+Spread	trading-with-python/trunk/lib/classes.py	/^class Spread(object):$/;"	c
+SqliteTableModel	trading-with-python/trunk/sandbox/dataModels.py	/^class SqliteTableModel(QAbstractTableModel):$/;"	c
+Subscriptions	trading-with-python/trunk/lib/interactivebrokers.py	/^class Subscriptions(DataFrameModel, Sender):$/;"	c
+Symbol	trading-with-python/trunk/lib/classes.py	/^class Symbol(object):$/;"	c
+Symbols	trading-with-python/trunk/sandbox/dataModels.py	/^class Symbols(QAbstractTableModel):$/;"	c
+Symbols	trading-with-python/trunk/sandbox/spreadGroup.py	/^class Symbols(object):$/;"	c
+TableView	trading-with-python/trunk/lib/qtpandas.py	/^class TableView(QTableView):$/;"	c
+TableView	trading-with-python/trunk/nautilus/nautilus.py	/^class TableView(QTableView):$/;"	c
+TaurusTimeScaleDraw	trading-with-python/trunk/cookbook/scales.py	/^class TaurusTimeScaleDraw(FancyScaleDraw):$/;"	c
+TickLogger	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^class TickLogger(object):$/;"	c
+TickLogger	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^class TickLogger(object):$/;"	c
+TimeKeeper	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^class TimeKeeper(object):$/;"	c
+TimeKeeper	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^class TimeKeeper(object):$/;"	c
+TimeKeeper	trading-with-python/trunk/lib/interactivebrokers.py	/^class TimeKeeper(object):$/;"	c
+VixFuture	trading-with-python/trunk/lib/cboe.py	/^class VixFuture(object):$/;"	c
+Y	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^	Y = recounstructVXX()$/;"	v
+_HistDataHandler	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^class _HistDataHandler(object):$/;"	c
+_HistDataHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^class _HistDataHandler(object):$/;"	c
+__all__	trading-with-python/trunk/cookbook/scales.py	/^__all__=["DateTimeScaleEngine", "DeltaTimeScaleEngine", "FixedLabelsScaleEngine", $/;"	v
+__del__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __del__(self):$/;"	m	class:Broker
+__del__	trading-with-python/trunk/nautilus/nautilus.py	/^    def __del__(self):$/;"	m	class:Form
+__del__	trading-with-python/trunk/sandbox/dataModels.py	/^    def __del__(self):$/;"	m	class:Symbols
+__del__	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def __del__(self):$/;"	m	class:Symbols
+__docformat__	trading-with-python/trunk/__init__.py	/^__docformat__ = 'restructuredtext'/;"	v
+__docformat__	trading-with-python/trunk/lib/classes.py	/^__docformat__ = 'restructuredtext'$/;"	v
+__init__	trading-with-python/trunk/cookbook/guiqwt_CurveDialog.py	/^    def __init__(self,parent=None):$/;"	m	class:MainForm
+__init__	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    def __init__(self,tws, subscriptions):$/;"	m	class:TickLogger
+__init__	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^    def __init__(self,tws):$/;"	m	class:MessageHandler
+__init__	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^    def __init__(self,series,code=None):$/;"	m	class:Future
+__init__	trading-with-python/trunk/cookbook/scales.py	/^        def __init__(self, format = None, palette = None):$/;"	m	class:FancyScaleDraw
+__init__	trading-with-python/trunk/cookbook/scales.py	/^    def __init__(self, *args):$/;"	m	class:DeltaTimeScaleDraw
+__init__	trading-with-python/trunk/cookbook/scales.py	/^    def __init__(self, *args):$/;"	m	class:TaurusTimeScaleDraw
+__init__	trading-with-python/trunk/cookbook/scales.py	/^    def __init__(self, positions):$/;"	m	class:FixedLabelsScaleEngine
+__init__	trading-with-python/trunk/cookbook/scales.py	/^    def __init__(self, positions, labels):$/;"	m	class:FixedLabelsScaleDraw
+__init__	trading-with-python/trunk/cookbook/scales.py	/^    def __init__(self, scaleDraw=None):$/;"	m	class:DateTimeScaleEngine
+__init__	trading-with-python/trunk/cookbook/scales.py	/^    def __init__(self, scaleDraw=None):$/;"	m	class:DeltaTimeScaleEngine
+__init__	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def __init__(self,debug=False):$/;"	m	class:Downloader
+__init__	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def __init__(self,tws):$/;"	m	class:DataHandler
+__init__	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^    def __init__(self):$/;"	m	class:TimeKeeper
+__init__	trading-with-python/trunk/lib/backtest.py	/^    def __init__(self, iterations):$/;"	m	class:ProgressBar
+__init__	trading-with-python/trunk/lib/backtest.py	/^    def __init__(self,price, signal, signalType='capital',initialCash = 0, roundShares=True):$/;"	m	class:Backtest
+__init__	trading-with-python/trunk/lib/bats.py	/^    def __init__(self, dataDir):$/;"	m	class:BATS_Data
+__init__	trading-with-python/trunk/lib/cboe.py	/^    def __init__(self,year,month):$/;"	m	class:VixFuture
+__init__	trading-with-python/trunk/lib/classes.py	/^    def __init__(self,histPrice,name=''):$/;"	m	class:Portfolio
+__init__	trading-with-python/trunk/lib/classes.py	/^    def __init__(self,name):$/;"	m	class:Symbol
+__init__	trading-with-python/trunk/lib/classes.py	/^    def __init__(self,stock,hedge,beta=None):$/;"	m	class:Spread
+__init__	trading-with-python/trunk/lib/csvDatabase.py	/^    def __init__(self, dataDir):$/;"	m	class:HistDatabase
+__init__	trading-with-python/trunk/lib/csvDatabase.py	/^    def __init__(self,symbol,dbDir,autoCreateDir=False):$/;"	m	class:HistDataCsv
+__init__	trading-with-python/trunk/lib/eventSystem.py	/^    def __init__(self):$/;"	m	class:Sender
+__init__	trading-with-python/trunk/lib/eventSystem.py	/^    def __init__(self,name=None):$/;"	m	class:ExampleListener
+__init__	trading-with-python/trunk/lib/extra.py	/^    def __init__(self, iterations):$/;"	m	class:ProgressBar
+__init__	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def __init__(self):$/;"	m	class:TimeKeeper
+__init__	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def __init__(self,debug=False):$/;"	m	class:Downloader
+__init__	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def __init__(self,tws):$/;"	m	class:_HistDataHandler
+__init__	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    def __init__(self,tws, subscriptions):$/;"	m	class:TickLogger
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self):$/;"	m	class:TimeKeeper
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, broker, parent=None):$/;"	m	class:BrokerWidget
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, debug=False):$/;"	m	class:Downloader
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, name='broker'):$/;"	m	class:Broker
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, parent=None):$/;"	m	class:AddSubscriptionDlg
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, parent=None):$/;"	m	class:Form
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, tws):$/;"	m	class:_HistDataHandler
+__init__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __init__(self, tws=None):$/;"	m	class:Subscriptions
+__init__	trading-with-python/trunk/lib/qtpandas.py	/^    def __init__(self,name='DataFrameTable1', parent=None):$/;"	m	class:DataFrameWidget
+__init__	trading-with-python/trunk/lib/qtpandas.py	/^    def __init__(self,name='TableView1', parent=None):$/;"	m	class:TableView
+__init__	trading-with-python/trunk/lib/qtpandas.py	/^    def __init__(self,parent=None):$/;"	m	class:DataFrameModel
+__init__	trading-with-python/trunk/lib/qtpandas.py	/^    def __init__(self,parent=None):$/;"	m	class:Form
+__init__	trading-with-python/trunk/lib/vixFutures.py	/^    def __init__(self,year,month):$/;"	m	class:Future
+__init__	trading-with-python/trunk/lib/widgets.py	/^    def __init__(self, parent=None):$/;"	m	class:MainForm
+__init__	trading-with-python/trunk/lib/widgets.py	/^    def __init__(self,parent=None):$/;"	m	class:PlotWindow
+__init__	trading-with-python/trunk/lib/widgets.py	/^    def __init__(self,parent=None,grid=True):$/;"	m	class:MatplotlibWidget
+__init__	trading-with-python/trunk/lib/yahooFinance.py	/^    def __init__(self, autoAdjust=True):$/;"	m	class:HistData
+__init__	trading-with-python/trunk/nautilus/nautilus.py	/^    def __init__(self):$/;"	m	class:PriceListener
+__init__	trading-with-python/trunk/nautilus/nautilus.py	/^    def __init__(self, name = "broker"):$/;"	m	class:Broker
+__init__	trading-with-python/trunk/nautilus/nautilus.py	/^    def __init__(self,name='TableView1', parent=None):$/;"	m	class:TableView
+__init__	trading-with-python/trunk/nautilus/nautilus.py	/^    def __init__(self,parent=None):$/;"	m	class:Form
+__init__	trading-with-python/trunk/sandbox/dataModels.py	/^    def __init__(self, parent=None):$/;"	m	class:Form
+__init__	trading-with-python/trunk/sandbox/dataModels.py	/^    def __init__(self,dbConnection,tableName):$/;"	m	class:Symbols
+__init__	trading-with-python/trunk/sandbox/dataModels.py	/^    def __init__(self,dbConnection,tableName,parent=None):$/;"	m	class:SqliteTableModel
+__init__	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^    def __init__(self):$/;"	m	class:MainForm
+__init__	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def __init__(self,fName='spreads.db'):$/;"	m	class:Symbols
+__init__	x.py	/^    def __init__(self, data_path='.', date_format='%Y%m%d %H:%M:%S', host='127.0.0.1', port=7497/;"	m	class:IBDataCache
+__repr__	trading-with-python/trunk/lib/cboe.py	/^    def __repr__(self):$/;"	m	class:VixFuture
+__repr__	trading-with-python/trunk/lib/classes.py	/^    def __repr__(self):$/;"	m	class:Portfolio
+__repr__	trading-with-python/trunk/lib/classes.py	/^    def __repr__(self):$/;"	m	class:Spread
+__repr__	trading-with-python/trunk/lib/csvDatabase.py	/^    def __repr__(self):$/;"	m	class:HistDataCsv
+__repr__	trading-with-python/trunk/lib/csvDatabase.py	/^    def __repr__(self):$/;"	m	class:HistDatabase
+__repr__	trading-with-python/trunk/lib/interactivebrokers.py	/^    def __repr__(self):$/;"	m	class:Subscriptions
+__repr__	trading-with-python/trunk/lib/qtpandas.py	/^    def __repr__(self):$/;"	m	class:DataFrameModel
+__repr__	trading-with-python/trunk/lib/vixFutures.py	/^    def __repr__(self):$/;"	m	class:Future
+__repr__	trading-with-python/trunk/lib/yahooFinance.py	/^    def __repr__(self):$/;"	m	class:HistData
+__repr__	trading-with-python/trunk/sandbox/dataModels.py	/^    def __repr__(self):$/;"	m	class:SqliteTableModel
+__str__	trading-with-python/trunk/lib/backtest.py	/^    def __str__(self):$/;"	m	class:ProgressBar
+__str__	trading-with-python/trunk/lib/extra.py	/^    def __str__(self):$/;"	m	class:ProgressBar
+__update_amount	trading-with-python/trunk/lib/backtest.py	/^    def __update_amount(self, new_amount):$/;"	m	class:ProgressBar	file:
+__update_amount	trading-with-python/trunk/lib/extra.py	/^    def __update_amount(self, new_amount):$/;"	m	class:ProgressBar	file:
+__version__	trading-with-python/trunk/__init__.py	/^__docformat__ = 'restructuredtext'/;"	v
+_adjust	trading-with-python/trunk/lib/yahooFinance.py	/^def _adjust(df, removeOrig=False):$/;"	f
+_calculateExpirationDate	trading-with-python/trunk/lib/vixFutures.py	/^    def _calculateExpirationDate(self):$/;"	m	class:Future
+_checkDates	trading-with-python/trunk/lib/bats.py	/^    def _checkDates(self):$/;"	m	class:BATS_Data
+_csvFilename	trading-with-python/trunk/lib/vixFutures.py	/^    def _csvFilename(self,dataDir):$/;"	m	class:Future
+_debugHandler	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def _debugHandler(self,msg):$/;"	m	class:Downloader
+_debugHandler	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def _debugHandler(self,msg):$/;"	m	class:Downloader
+_debugHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def _debugHandler(self, msg):$/;"	m	class:Downloader
+_defaultHandler	trading-with-python/trunk/nautilus/nautilus.py	/^    def _defaultHandler(self,msg):$/;"	m	class:Broker
+_getDefaultAxisLabelsAlignment	trading-with-python/trunk/cookbook/scales.py	/^def _getDefaultAxisLabelsAlignment(axis, rotation):$/;"	f
+_getYahooData	trading-with-python/trunk/lib/classes.py	/^    def _getYahooData(self, startDate=(2007,1,1)):$/;"	m	class:Spread
+_historicDataUrll	trading-with-python/trunk/lib/yahooFinance.py	/^def _historicDataUrll(symbol, sDate=(1990,1,1),eDate=date.today().timetuple()[0:3]):$/;"	f
+_historical_data_handler	x.py	/^    def _historical_data_handler(self, msg):$/;"	m	class:IBDataCache
+_missingDates	trading-with-python/trunk/lib/bats.py	/^    def _missingDates(self):$/;"	m	class:BATS_Data
+_nextValidIdHandler	trading-with-python/trunk/nautilus/nautilus.py	/^    def _nextValidIdHandler(self,msg):$/;"	m	class:Broker
+_priceHandler	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    def _priceHandler(self,msg):$/;"	m	class:TickLogger
+_priceHandler	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    def _priceHandler(self,msg):$/;"	m	class:TickLogger
+_priceHandler	trading-with-python/trunk/nautilus/nautilus.py	/^    def _priceHandler(self,msg):$/;"	m	class:Broker
+_rebuildIndex	trading-with-python/trunk/lib/interactivebrokers.py	/^    def _rebuildIndex(self):$/;"	m	class:Subscriptions
+_reload	trading-with-python/trunk/sandbox/dataModels.py	/^    def _reload(self):$/;"	m	class:SqliteTableModel
+_reset_data	x.py	/^    def _reset_data(self):$/;"	m	class:IBDataCache
+_save_order_id	x.py	/^    def _save_order_id(self, msg):$/;"	m	class:IBDataCache
+_sizeHandler	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    def _sizeHandler(self,msg):   $/;"	m	class:TickLogger
+_sizeHandler	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    def _sizeHandler(self,msg):   $/;"	m	class:TickLogger
+_str2datetime	trading-with-python/trunk/lib/interactivebrokers.py	/^def _str2datetime(s):$/;"	f
+_testFcn	trading-with-python/trunk/sandbox/dataModels.py	/^    def _testFcn(self):$/;"	m	class:Symbols
+_testFcn	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def _testFcn(self):$/;"	m	class:Symbols
+_writeData	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    def _writeData(self,data):$/;"	m	class:TickLogger
+_writeData	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    def _writeData(self,data):$/;"	m	class:TickLogger
+a	trading-with-python/trunk/cookbook/cython/testSpeed.py	/^a = np.random.rand(128,100000).astype(np.float32)$/;"	v
+accountHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def accountHandler(self, msg):$/;"	m	class:Subscriptions
+add	trading-with-python/trunk/lib/interactivebrokers.py	/^    def add(self, symbol, subId=None):$/;"	m	class:Subscriptions
+addRecord	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^    def addRecord(self):$/;"	m	class:MainForm
+addRequest	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^    def addRequest(self):$/;"	m	class:TimeKeeper
+addRequest	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def addRequest(self):$/;"	m	class:TimeKeeper
+addRequest	trading-with-python/trunk/lib/interactivebrokers.py	/^    def addRequest(self):$/;"	m	class:TimeKeeper
+addSubscription	trading-with-python/trunk/lib/interactivebrokers.py	/^    def addSubscription(self):$/;"	m	class:BrokerWidget
+addSymbol	trading-with-python/trunk/nautilus/nautilus.py	/^    def addSymbol(self,symbol):$/;"	m	class:PriceListener
+addSymbol	trading-with-python/trunk/sandbox/dataModels.py	/^    def addSymbol(self, symbol):$/;"	m	class:Symbols
+addSymbol	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def addSymbol(self, symbol):$/;"	m	class:Symbols
+alice	trading-with-python/trunk/lib/eventSystem.py	/^    alice = Sender()$/;"	v
+animate	trading-with-python/trunk/lib/backtest.py	/^    def animate(self, iteration):$/;"	m	class:ProgressBar
+animate	trading-with-python/trunk/lib/extra.py	/^    def animate(self, iteration):$/;"	m	class:ProgressBar
+app	trading-with-python/trunk/cookbook/guiqwt_CurveDialog.py	/^    app = QApplication(sys.argv)$/;"	v
+app	trading-with-python/trunk/lib/qtpandas.py	/^    app = QApplication(sys.argv)$/;"	v
+app	trading-with-python/trunk/lib/widgets.py	/^    app = QApplication(sys.argv)$/;"	v
+app	trading-with-python/trunk/nautilus/nautilus.py	/^    app = QApplication(sys.argv)$/;"	v
+appendRow	trading-with-python/trunk/lib/qtpandas.py	/^    def appendRow(self, index, data=0):$/;"	m	class:DataFrameModel
+args	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    args = parser.parse_args()$/;"	v
+args	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    args = parser.parse_args()$/;"	v
+ax1	trading-with-python/trunk/historicDataDownloader/testData.py	/^ax1=subplot(2,1,1)$/;"	v
+bob	trading-with-python/trunk/lib/eventSystem.py	/^    bob = ExampleListener('bob')$/;"	v
+buildDataTable	trading-with-python/trunk/cookbook/reconstructVXX/downloadVixFutures.py	/^def buildDataTable(dataDir):$/;"	f
+c	trading-with-python/trunk/cookbook/ib_streamQuotes.py	/^c = Contract()$/;"	v
+c	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    c = Contract()$/;"	v
+calculateShares	trading-with-python/trunk/lib/classes.py	/^    def calculateShares(self,bet):$/;"	m	class:Spread
+calculateStatistics	trading-with-python/trunk/lib/classes.py	/^    def calculateStatistics(self,other=None):$/;"	m	class:Portfolio
+candlestick	trading-with-python/trunk/lib/functions.py	/^def candlestick(df,width=0.5, colorup='b', colordown='r'):$/;"	f
+charlie	trading-with-python/trunk/lib/eventSystem.py	/^    charlie = ExampleListener('charlie')$/;"	v
+clear	trading-with-python/trunk/lib/widgets.py	/^    def clear(self):$/;"	m	class:MatplotlibWidget
+close	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    def close(self):$/;"	m	class:TickLogger
+close	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    def close(self):$/;"	m	class:TickLogger
+codes	trading-with-python/trunk/cookbook/reconstructVXX/downloadVixFutures.py	/^codes = dict(zip(m_codes,range(1,len(m_codes)+1)))$/;"	v
+columnCount	trading-with-python/trunk/lib/qtpandas.py	/^    def columnCount(self, index=QModelIndex()):$/;"	m	class:DataFrameModel
+commonDates	trading-with-python/trunk/lib/csvDatabase.py	/^    def commonDates(self):$/;"	m	class:HistDatabase
+con	api-example.py	/^    con = Connection.create(port=7496, clientId=100)$/;"	v
+con	trading-with-python/trunk/cookbook/connectToTWS.py	/^    con = ibConnection()$/;"	v
+con	trading-with-python/trunk/sandbox/dataModels.py	/^    con = lite.connect(dbName)$/;"	v
+connect	trading-with-python/trunk/nautilus/nautilus.py	/^    def connect(self):$/;"	m	class:Broker
+contextMenuEvent	trading-with-python/trunk/lib/qtpandas.py	/^    def contextMenuEvent(self, event):$/;"	m	class:TableView
+contextMenuEvent	trading-with-python/trunk/nautilus/nautilus.py	/^    def contextMenuEvent(self, event):$/;"	m	class:TableView
+contract	trading-with-python/trunk/cookbook/ib_histData.py	/^contract = createContract('SPY') # create contract using defaults (STK,SMART,USD)$/;"	v
+contract	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^contract = createContract('SPY')$/;"	v
+contract	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    contract = createContract('SPY') # create contract using defaults (STK,SMART,USD)$/;"	v
+contracts	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    contracts = [createContract(symbol) for symbol in symbols]$/;"	v
+copyFiles	trading-with-python/trunk/createDistribution.py	/^def copyFiles(sourceDir,targetDir,includes=None):$/;"	f
+counter	trading-with-python/trunk/cookbook/runConsoleUntilInterrupt.py	/^counter = 0$/;"	v
+createContract	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^def createContract(symbol):$/;"	f
+createContract	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^def createContract(symbol):$/;"	f
+createContract	trading-with-python/trunk/lib/interactiveBrokers/extra.py	/^def createContract(symbol,secType='STK',exchange='SMART',currency='USD'):$/;"	f
+createContract	trading-with-python/trunk/lib/interactivebrokers.py	/^def createContract(symbol, secType='STK', exchange='SMART', currency='USD'):$/;"	f
+createOHLC	trading-with-python/trunk/lib/csvDatabase.py	/^    def createOHLC(self):$/;"	m	class:HistDataCsv
+createOrder	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^def createOrder(orderId,shares,limit = None, transmit=0):$/;"	f
+createOrder	trading-with-python/trunk/lib/interactiveBrokers/extra.py	/^def createOrder(orderId,shares,orderType='MKT', limit = None, transmit=0):$/;"	f
 create_contract	api-example.py	/^def create_contract(symbol, sec_type, exch, prim_exch, curr):$/;"	f
-create_order	api-example.py	/^def create_order(order_type, quantity, action):$/;"	f
+cur	trading-with-python/trunk/sandbox/dataModels.py	/^    cur = con.cursor()$/;"	v
+d	trading-with-python/trunk/cookbook/calculatePnl.py	/^d = {'price':spy, 'pos':pos}$/;"	v
+d	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^d = dt.datetime.strptime('20120803  21:59:59',"%Y%m%d %H:%M:%S")$/;"	v
+data	trading-with-python/trunk/cookbook/calculatePnl.py	/^data = np.random.rand(10,2)$/;"	v
+data	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^data = [[] for i in range(6)]$/;"	v
+data	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^data = dict(zip(['open','high','low','close','volume','adj_close'],data))$/;"	v
+data	trading-with-python/trunk/cookbook/ib_histData.py	/^data = dl.requestData(contract,"20130508 16:00:00 EST") # request 30-second data bars up till no/;"	v
+data	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def data(self):$/;"	m	class:DataHandler
+data	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    data = dl.requestData(contract,"20141208 16:00:00 EST") # request 30-second data bars up til/;"	v
+data	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def data(self):$/;"	m	class:_HistDataHandler
+data	trading-with-python/trunk/lib/interactivebrokers.py	/^    def data(self):$/;"	m	class:Broker
+data	trading-with-python/trunk/lib/interactivebrokers.py	/^    def data(self):$/;"	m	class:_HistDataHandler
+data	trading-with-python/trunk/lib/qtpandas.py	/^    def data(self, index, role=Qt.DisplayRole):$/;"	m	class:DataFrameModel
+dataDir	trading-with-python/trunk/cookbook/downloadVixFutures.py	/^dataDir = os.getenv("USERPROFILE")+'\\\\twpData\\\\vixFutures' # data directory$/;"	v
+dataDir	trading-with-python/trunk/cookbook/reconstructVXX/downloadVixFutures.py	/^dataDir = os.path.expanduser('~')+'\/twpData\/vixFutures'$/;"	v
+dataFile	trading-with-python/trunk/cookbook/calculatePnl.py	/^dataFile = 'D:\\\\Development\\\\tradingWithPython\\\\cookbook\\\\tritonDaily.csv'$/;"	v
+date	trading-with-python/trunk/lib/csvDatabase.py	/^    date = dt.date(2012,8,31)$/;"	v
+date2fileName	trading-with-python/trunk/lib/bats.py	/^def date2fileName(date):$/;"	f
+dateFormat	trading-with-python/trunk/lib/csvDatabase.py	/^dateFormat = "%Y%m%d" # date format for converting filenames to dates$/;"	v
+dateFormat	trading-with-python/trunk/lib/interactiveBrokers/extra.py	/^dateFormat = "%Y%m%d"$/;"	v
+dateFormat	trading-with-python/trunk/lib/interactivebrokers.py	/^dateFormat = "%Y%m%d"$/;"	v
+dateTimeFormat	trading-with-python/trunk/lib/csvDatabase.py	/^dateTimeFormat = "%Y%m%d %H:%M:%S"$/;"	v
+dateTimeToDate	trading-with-python/trunk/lib/functions.py	/^def dateTimeToDate(idx):$/;"	f
+date_format	x.py	/^    date_format = '%Y%m%d %H:%M:%S'$/;"	v
+datefmt	trading-with-python/trunk/lib/interactiveBrokers/logger.py	/^datefmt = '%d-%b-%y %H:%M:%S'$/;"	v
+datefmt	trading-with-python/trunk/lib/logger.py	/^datefmt = '%d-%b-%y %H:%M:%S'$/;"	v
+dates	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^dates = []$/;"	v
+dates	trading-with-python/trunk/lib/vixFutures.py	/^    def dates(self):$/;"	m	class:Future
+datetime2matlab	trading-with-python/trunk/lib/functions.py	/^def datetime2matlab(t):$/;"	f
+datetimeLabelFormat	trading-with-python/trunk/cookbook/scales.py	/^    def datetimeLabelFormat(self):$/;"	m	class:TaurusTimeScaleDraw
+dave	trading-with-python/trunk/lib/eventSystem.py	/^    dave = ExampleListener('dave')$/;"	v
+dayReturns	trading-with-python/trunk/lib/classes.py	/^    def dayReturns(self):$/;"	m	class:Symbol
+daysLeft	trading-with-python/trunk/lib/cboe.py	/^    def daysLeft(self,date):$/;"	m	class:VixFuture
+db	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^import sqlite3 as db$/;"	I
+db	trading-with-python/trunk/sandbox/spreadGroup.py	/^import sqlite3 as db$/;"	I
+dbDir	trading-with-python/trunk/lib/csvDatabase.py	/^    dbDir =os.path.normpath('D:\/data\/30sec')$/;"	v
+dbName	trading-with-python/trunk/sandbox/dataModels.py	/^    dbName = 'testDb'$/;"	v
+dbName	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^dbName = 'test.db'$/;"	v
+debugHandler	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^    def debugHandler(self,msg):$/;"	m	class:MessageHandler
+debugHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def debugHandler(self, msg):$/;"	m	class:Broker
+defaultHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def defaultHandler(self, msg):$/;"	m	class:Broker
+deleteRecord	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^    def deleteRecord(self):$/;"	m	class:MainForm
+deleteRow	trading-with-python/trunk/lib/qtpandas.py	/^    def deleteRow(self):$/;"	m	class:TableView
+deleteRow	trading-with-python/trunk/lib/qtpandas.py	/^    def deleteRow(self, index):$/;"	m	class:DataFrameModel
+delta	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^delta = dt.timedelta(days=20)$/;"	v
+delta	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^delta = today - someDate$/;"	v
+df	trading-with-python/trunk/cookbook/calculatePnl.py	/^df = DataFrame(d)$/;"	v
+df	trading-with-python/trunk/cookbook/calculatePnl.py	/^df = DataFrame(data=data,index=idx,columns =['a','b'])$/;"	v
+df	trading-with-python/trunk/cookbook/calculatePnl.py	/^df = read_csv('foo.csv',index_col=0, parse_dates=True)$/;"	v
+df	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^df = DataFrame(data,index=idx).sort()$/;"	v
+df	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    df = dl.getIntradayData(c, (2012,8,6))$/;"	v
+df	trading-with-python/trunk/historicDataDownloader/testData.py	/^df = DataFrame.from_csv('test.csv').astype(np.dtype('f4'))$/;"	v
+df	trading-with-python/trunk/lib/functions.py	/^    df = DataFrame({'open':[1,2,3],'high':[5,6,7],'low':[-2,-1,0],'close':[2,1,4]})$/;"	v
+df	trading-with-python/trunk/sandbox/spreadCalculations.py	/^df = y.loadSymbols(symbols,forceDownload=False)$/;"	v
+df	x.py	/^    df = downloader.get_dataframe(**stock_kwargs)$/;"	v
+disableInAxis	trading-with-python/trunk/cookbook/scales.py	/^    def disableInAxis(plot, axis, scaleDraw=None, scaleEngine=None):$/;"	m	class:DateTimeScaleEngine
+disableInAxis	trading-with-python/trunk/cookbook/scales.py	/^    def disableInAxis(plot, axis, scaleDraw=None, scaleEngine=None):$/;"	m	class:DeltaTimeScaleEngine
+disableInAxis	trading-with-python/trunk/cookbook/scales.py	/^    def disableInAxis(plot, axis, scaleDraw=None, scaleEngine=None):$/;"	m	class:FixedLabelsScaleEngine
+disconnect	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def disconnect(self):$/;"	m	class:Downloader
+disconnect	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def disconnect(self):$/;"	m	class:Downloader
+disconnect	trading-with-python/trunk/lib/interactivebrokers.py	/^    def disconnect(self):$/;"	m	class:Broker
+disconnect	trading-with-python/trunk/lib/interactivebrokers.py	/^    def disconnect(self):$/;"	m	class:Downloader
+disconnect	trading-with-python/trunk/nautilus/nautilus.py	/^    def disconnect(self):$/;"	m	class:Broker
+dispatch	trading-with-python/trunk/lib/eventSystem.py	/^    def dispatch(self,event=None, msg=None):$/;"	m	class:Sender
+divideScale	trading-with-python/trunk/cookbook/scales.py	/^    def divideScale(self, x1, x2, maxMajSteps, maxMinSteps, stepSize):$/;"	m	class:DateTimeScaleEngine
+divideScale	trading-with-python/trunk/cookbook/scales.py	/^    def divideScale(self, x1, x2, maxMajSteps, maxMinSteps, stepSize):$/;"	m	class:DeltaTimeScaleEngine
+divideScale	trading-with-python/trunk/cookbook/scales.py	/^    def divideScale(self, x1, x2, maxMajSteps, maxMinSteps, stepSize=0.0):$/;"	m	class:FixedLabelsScaleEngine
+dl	trading-with-python/trunk/cookbook/ib_histData.py	/^dl = histData.Downloader(debug=True) # historic data downloader class$/;"	v
+dl	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    dl = Downloader(debug=True)$/;"	v
+dl	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    dl = Downloader(debug=True) # historic data downloader class$/;"	v
+downloadData	trading-with-python/trunk/lib/yahooFinance.py	/^    def downloadData(self,symbols='all'):$/;"	m	class:HistData
+downloadHistData	trading-with-python/trunk/lib/classes.py	/^    def downloadHistData(self, startDate=(2010,1,1),endDate=date.today().timetuple()[:3],\\$/;"	m	class:Symbol
+downloadUrl	trading-with-python/trunk/lib/bats.py	/^def downloadUrl(date):$/;"	f
+downloader	x.py	/^    downloader = IBDataCache(**downloader_kwargs)$/;"	v
+downloader_kwargs	x.py	/^    downloader_kwargs = dict($/;"	v
+dr	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^    def dr(self,date):$/;"	m	class:Future
+draw	trading-with-python/trunk/cookbook/scales.py	/^        def draw(self, painter, palette):$/;"	m	class:FancyScaleDraw
+drawdown	trading-with-python/trunk/lib/functions.py	/^def drawdown(s):$/;"	f
+dt	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^import datetime as dt # date and time functions$/;"	I
+dt	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/lib/bats.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/lib/csvDatabase.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/lib/functions.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^import datetime as dt # date and time functions$/;"	I
+dt	trading-with-python/trunk/lib/interactivebrokers.py	/^import datetime as dt$/;"	I
+dt	trading-with-python/trunk/lib/vixFutures.py	/^import datetime as dt$/;"	I
+dummyHandler	trading-with-python/trunk/cookbook/connectToTWS.py	/^def dummyHandler(msg):$/;"	f
+dummyHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^def dummyHandler(msg):$/;"	f
+eDate	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^eDate = (2011,10,1)$/;"	v
+enableInAxis	trading-with-python/trunk/cookbook/scales.py	/^    def enableInAxis(plot, axis, scaleDraw =None):$/;"	m	class:FixedLabelsScaleEngine
+enableInAxis	trading-with-python/trunk/cookbook/scales.py	/^    def enableInAxis(plot, axis, scaleDraw =None, rotation=None):$/;"	m	class:DateTimeScaleEngine
+enableInAxis	trading-with-python/trunk/cookbook/scales.py	/^    def enableInAxis(plot, axis, scaleDraw =None, rotation=None):$/;"	m	class:DeltaTimeScaleEngine
+end	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^end = dt.datetime(2012,8,1)+datetools.relativedelta(hours=22)$/;"	v
+endtime	api-example.py	/^    endtime = strftime('%Y%m%d %H:%M:%S')   $/;"	v
 error_handler	api-example.py	/^def error_handler(msg):$/;"	f
-goog_contract	api-example.py	/^    goog_contract = create_contract('GOOG', 'STK', 'SMART', 'SMART', 'USD')$/;"	v
-goog_order	api-example.py	/^    goog_order = create_order('MKT', 100, 'BUY')$/;"	v
+estimateBeta	trading-with-python/trunk/lib/classes.py	/^    def estimateBeta(self,plotOn=False):$/;"	m	class:Spread
+estimateBeta	trading-with-python/trunk/lib/functions.py	/^def estimateBeta(priceY,priceX,algo = 'standard'):$/;"	f
+estimateVolatility	trading-with-python/trunk/lib/functions.py	/^def estimateVolatility(ohlc, N=10, algo='YangZhang'):$/;"	f
+expirationDate	trading-with-python/trunk/lib/cboe.py	/^    def expirationDate(self):$/;"	m	class:VixFuture
+ext	trading-with-python/trunk/cookbook/cython/setup.py	/^ext = Extension("mean_c", ["mean_c.pyx"],$/;"	v
+f	trading-with-python/trunk/lib/vixFutures.py	/^    f = Future(year,month)$/;"	v
+fName	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^fName = symbol+'.csv'$/;"	v
+fields	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^    fields = line.rstrip().split(',')$/;"	v
+fig	trading-with-python/trunk/sandbox/spreadCalculations.py	/^fig = figure(2)$/;"	v
+fileName2date	trading-with-python/trunk/lib/bats.py	/^def fileName2date( fName):$/;"	f
+fileName2date	trading-with-python/trunk/lib/csvDatabase.py	/^def fileName2date(fName):$/;"	f
+fitColumns	trading-with-python/trunk/lib/qtpandas.py	/^    def fitColumns(self):$/;"	m	class:DataFrameWidget
+flags	trading-with-python/trunk/lib/qtpandas.py	/^    def flags(self, index):$/;"	m	class:DataFrameModel
+flush	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    def flush(self):$/;"	m	class:TickLogger
+flush	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    def flush(self):$/;"	m	class:TickLogger
+form	trading-with-python/trunk/cookbook/guiqwt_CurveDialog.py	/^    form = MainForm()$/;"	v
+form	trading-with-python/trunk/lib/qtpandas.py	/^    form = Form()$/;"	v
+form	trading-with-python/trunk/lib/widgets.py	/^    form = MainForm()$/;"	v
+form	trading-with-python/trunk/nautilus/nautilus.py	/^    form = Form()$/;"	v
+format	trading-with-python/trunk/lib/interactiveBrokers/logger.py	/^format = '%(asctime)s %(levelname)s [%(name)s]  %(message)s'$/;"	v
+format	trading-with-python/trunk/lib/logger.py	/^format = '%(asctime)s %(levelname)s [%(name)s]  %(message)s'$/;"	v
+g	trading-with-python/trunk/sandbox/spreadGroup.py	/^    g = Symbols()$/;"	v
+getAxes	trading-with-python/trunk/lib/widgets.py	/^    def getAxes(self):$/;"	m	class:PlotWindow
+getCboeData	trading-with-python/trunk/lib/vixFutures.py	/^    def getCboeData(self, dataDir=None, forceUpdate=False):$/;"	m	class:Future
+getCboeData	trading-with-python/trunk/lib/vixFutures.py	/^def getCboeData(year,month):$/;"	f
+getDataFrame	trading-with-python/trunk/lib/yahooFinance.py	/^    def getDataFrame(self,field='close'):$/;"	m	class:HistData
+getDataSources	trading-with-python/trunk/lib/functions.py	/^def getDataSources(fName = None):$/;"	f
+getDefaultAxisLabelsAlignment	trading-with-python/trunk/cookbook/scales.py	/^    def getDefaultAxisLabelsAlignment(axis, rotation):$/;"	m	class:DateTimeScaleEngine
+getDefaultAxisLabelsAlignment	trading-with-python/trunk/cookbook/scales.py	/^    def getDefaultAxisLabelsAlignment(axis, rotation):$/;"	m	class:DeltaTimeScaleEngine
+getFigure	trading-with-python/trunk/lib/widgets.py	/^    def getFigure(self):$/;"	m	class:PlotWindow
+getHistoricData	trading-with-python/trunk/lib/cboe.py	/^def getHistoricData(symbols =  ['VIX','VXV','VXMT','VVIX']):$/;"	f
+getHistoricData	trading-with-python/trunk/lib/yahooFinance.py	/^def getHistoricData(symbols, **options):$/;"	f
+getIntradayData	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def getIntradayData(self,contract, dateTuple ):$/;"	m	class:Downloader
+getIntradayData	trading-with-python/trunk/lib/interactivebrokers.py	/^    def getIntradayData(self, contract, dateTuple):$/;"	m	class:Downloader
+getLabelFormat	trading-with-python/trunk/cookbook/scales.py	/^        def getLabelFormat(self):$/;"	m	class:FancyScaleDraw
+getLogger	trading-with-python/trunk/lib/interactiveBrokers/logger.py	/^def getLogger(name='twp', level=level, format=format,$/;"	f
+getLogger	trading-with-python/trunk/lib/logger.py	/^def getLogger(name='twp', level=level, format=format,$/;"	f
+getOrderId	trading-with-python/trunk/lib/interactivebrokers.py	/^    def getOrderId(self):$/;"	m	class:Broker
+getPalette	trading-with-python/trunk/cookbook/scales.py	/^        def getPalette(self):$/;"	m	class:FancyScaleDraw
+getPutCallRatio	trading-with-python/trunk/lib/cboe.py	/^def getPutCallRatio():$/;"	f
+getQuote	trading-with-python/trunk/lib/classes.py	/^    def getQuote(self):$/;"	m	class:Spread
+getQuote	trading-with-python/trunk/lib/yahooFinance.py	/^def getQuote(symbols):$/;"	f
+getScreenerSymbols	trading-with-python/trunk/lib/yahooFinance.py	/^def getScreenerSymbols(fileName):$/;"	f
+getSpyHoldings	trading-with-python/trunk/lib/extra.py	/^def getSpyHoldings(dataDir):$/;"	f
+getSymbolData	trading-with-python/trunk/lib/yahooFinance.py	/^def getSymbolData(symbol, sDate=(1990,1,1),eDate=date.today().timetuple()[0:3], adjust=False, ve/;"	f
+get_dataframe	x.py	/^    def get_dataframe(self, sec_type, symbol, currency, exchange, endtime, duration, bar_size, w/;"	m	class:IBDataCache
+handler	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^handler = MessageHandler(tws) # message handling class$/;"	v
+headerData	trading-with-python/trunk/lib/qtpandas.py	/^    def headerData(self,section,orientation,role=Qt.DisplayRole):$/;"	m	class:DataFrameModel
+hist	api-example.py	/^hist = []$/;"	v
+histData	trading-with-python/trunk/lib/classes.py	/^    def histData(self,column='adj_close'):$/;"	m	class:Symbol
+idx	trading-with-python/trunk/cookbook/calculatePnl.py	/^idx = DateRange('1\/1\/2000', periods=10)$/;"	v
+idx	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^idx = Index(dates)$/;"	v
+includes	trading-with-python/trunk/createDistribution.py	/^includes = ['__init__','cboe','csvDatabase','functions','yahooFinance','extra','bats','backtest'/;"	v
+initDb	trading-with-python/trunk/sandbox/dataModels.py	/^    def initDb(self):$/;"	m	class:Symbols
+initDb	trading-with-python/trunk/sandbox/dataModels.py	/^def initDb(dbName):$/;"	f
+initDb	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^def initDb():$/;"	f
+initDb	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def initDb(self):$/;"	m	class:Symbols
+initFigure	trading-with-python/trunk/lib/widgets.py	/^    def initFigure(self):$/;"	m	class:MatplotlibWidget
+insertRow	trading-with-python/trunk/lib/qtpandas.py	/^    def insertRow(self,index, data=None):$/;"	m	class:DataFrameWidget
+label	trading-with-python/trunk/cookbook/scales.py	/^        def label(self, val):$/;"	m	class:FancyScaleDraw
+label	trading-with-python/trunk/cookbook/scales.py	/^    def label(self, val):$/;"	m	class:DeltaTimeScaleDraw
+label	trading-with-python/trunk/cookbook/scales.py	/^    def label(self, val):$/;"	m	class:FixedLabelsScaleDraw
+label	trading-with-python/trunk/cookbook/scales.py	/^    def label(self, val):$/;"	m	class:TaurusTimeScaleDraw
+level	trading-with-python/trunk/lib/interactiveBrokers/logger.py	/^level = int(os.environ.get('TWP_LOGLEVEL', logging.DEBUG))$/;"	v
+level	trading-with-python/trunk/lib/logger.py	/^level = int(os.environ.get('TWP_LOGLEVEL', logging.DEBUG))$/;"	v
+lines	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^    lines = fid.readlines()$/;"	v
+lines	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^    lines = urlopen(urlStr).readlines()$/;"	v
+lite	trading-with-python/trunk/sandbox/dataModels.py	/^import sqlite3 as lite$/;"	I
+load	trading-with-python/trunk/lib/yahooFinance.py	/^    def load(self,dataFile):$/;"	m	class:HistData
+load	trading-with-python/trunk/sandbox/dataModels.py	/^    def load(self):$/;"	m	class:Symbols
+loadCsv	trading-with-python/trunk/lib/csvDatabase.py	/^def loadCsv(fName):$/;"	f
+loadData	trading-with-python/trunk/lib/bats.py	/^    def loadData(self):$/;"	m	class:BATS_Data
+loadDate	trading-with-python/trunk/lib/bats.py	/^    def loadDate(self,date):$/;"	m	class:BATS_Data
+loadDate	trading-with-python/trunk/lib/csvDatabase.py	/^    def loadDate(self,date):  $/;"	m	class:HistDataCsv
+loadDates	trading-with-python/trunk/lib/csvDatabase.py	/^    def loadDates(self,dates):$/;"	m	class:HistDataCsv
+loadDates	trading-with-python/trunk/lib/csvDatabase.py	/^    def loadDates(self,dates=None):$/;"	m	class:HistDatabase
+logReturns	trading-with-python/trunk/lib/functions.py	/^def logReturns(df):$/;"	f
+logTicks	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^def logTicks(contracts,verbose=False):$/;"	f
+logger	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    logger = TickLogger(tws,subscriptions)$/;"	v
+logger	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^import tradingWithPython.lib.logger as logger$/;"	I
+logger	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^import tradingWithPython.lib.logger as logger$/;"	I
+logger	trading-with-python/trunk/lib/classes.py	/^import logger as logger$/;"	I
+logger	trading-with-python/trunk/lib/eventSystem.py	/^import logger as logger$/;"	I
+logger	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^import logger as logger$/;"	I
+logger	trading-with-python/trunk/lib/interactivebrokers.py	/^import logger as logger$/;"	I
+logger	trading-with-python/trunk/nautilus/nautilus.py	/^import tradingWithPython.lib.logger as logger$/;"	I
+m1	trading-with-python/trunk/cookbook/cython/testSpeed.py	/^m1 = a.mean(axis=0)$/;"	v
+m2	trading-with-python/trunk/cookbook/cython/testSpeed.py	/^m2 = mean_c.mean(a)$/;"	v
+m_codes	trading-with-python/trunk/cookbook/downloadVixFutures.py	/^m_codes = ['F','G','H','J','K','M','N','Q','U','V','X','Z'] #month codes of the futures$/;"	v
+m_codes	trading-with-python/trunk/cookbook/reconstructVXX/downloadVixFutures.py	/^m_codes = ['F','G','H','J','K','M','N','Q','U','V','X','Z'] #month codes of the futures$/;"	v
+m_codes	trading-with-python/trunk/lib/vixFutures.py	/^m_codes = dict(zip(range(1,13),['F','G','H','J','K','M','N','Q','U','V','X','Z'])) #month codes /;"	v
+main	trading-with-python/trunk/sandbox/guiWithDatabase.py	/^def main():$/;"	f
+makeStkContract	trading-with-python/trunk/cookbook/connectToTWS.py	/^def makeStkContract(contractTuple):$/;"	f
+manifest_template	trading-with-python/trunk/spreadApp/makeDist.py	/^manifest_template = '''$/;"	v
+mean	trading-with-python/trunk/cookbook/cython/mean_c.pyx	/^def mean(np.ndarray[dtype_t, ndim=2] data):$/;"	f
+mean	trading-with-python/trunk/cookbook/cython/mean_py.py	/^def mean(data):$/;"	f
+method	trading-with-python/trunk/lib/eventSystem.py	/^    def method(self,sender,event,msg=None):$/;"	m	class:ExampleListener
+month	trading-with-python/trunk/lib/vixFutures.py	/^    month = 12$/;"	v
+monthCode	trading-with-python/trunk/lib/cboe.py	/^def monthCode(month):$/;"	f
+monthNr	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^    def monthNr(self):$/;"	m	class:Future
+monthToCode	trading-with-python/trunk/lib/vixFutures.py	/^monthToCode = dict(zip(range(1,len(m_codes)+1),m_codes))$/;"	v
+msgHandler	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def msgHandler(self,msg):$/;"	m	class:DataHandler
+msgHandler	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def msgHandler(self,msg):$/;"	m	class:_HistDataHandler
+msgHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def msgHandler(self, msg):$/;"	m	class:_HistDataHandler
+my_BidAsk	trading-with-python/trunk/cookbook/connectToTWS.py	/^def my_BidAsk(msg):$/;"	f
+my_BidAsk2	trading-with-python/trunk/cookbook/connectToTWS.py	/^def my_BidAsk2(msg):$/;"	f
+my_hist_data_handler	api-example.py	/^def my_hist_data_handler(msg):$/;"	f
+name	trading-with-python/trunk/lib/classes.py	/^    def name(self):$/;"	m	class:Spread
+nans	trading-with-python/trunk/lib/functions.py	/^def nans(shape, dtype=float):$/;"	f
+nextValidIdHandler	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^    def nextValidIdHandler(self,msg):$/;"	m	class:MessageHandler
+nextValidIdHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def nextValidIdHandler(self, msg):$/;"	m	class:Broker
+np	api-example.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/__init__.py	/^__docformat__ = 'restructuredtext'/;"	I
+np	trading-with-python/trunk/cookbook/calculatePnl.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/calculateSpread.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/cython/mean_c.pyx	/^cimport numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/cython/mean_c.pyx	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/cython/mean_py.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/cython/testSpeed.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/guiqwt_CurveDialog.py	/^import numpy as np  $/;"	I
+np	trading-with-python/trunk/cookbook/reconstructVXX/downloadVixFutures.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/historicDataDownloader/testData.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/backtest.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/bats.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/cboe.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/classes.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/functions.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/interactivebrokers.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/qtpandas.py	/^    import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/widgets.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/lib/yahooFinance.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/nautilus/nautilus.py	/^import numpy as np$/;"	I
+np	trading-with-python/trunk/sandbox/spreadCalculations.py	/^import numpy as np$/;"	I
+nrRequests	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^    def nrRequests(self,timeSpan=600):$/;"	m	class:TimeKeeper
+nrRequests	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def nrRequests(self,timeSpan=600):$/;"	m	class:TimeKeeper
+nrRequests	trading-with-python/trunk/lib/interactivebrokers.py	/^    def nrRequests(self, timeSpan=600):$/;"	m	class:TimeKeeper
+offset	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^    offset = datetools.Week(weekday=4)$/;"	v
+onPick	trading-with-python/trunk/lib/widgets.py	/^    def onPick(self,event):$/;"	m	class:MatplotlibWidget
+opts	trading-with-python/trunk/spreadApp/makeDist.py	/^opts = {$/;"	v
+order	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^order = createOrder(orderId,shares=5, transmit=0) # create order$/;"	v
+orderId	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^orderId = handler.nextValidOrderId # numeric order id, must be unique.$/;"	v
 order_id	api-example.py	/^    order_id = 1$/;"	v
+pair	trading-with-python/trunk/lib/csvDatabase.py	/^    pair = pd.DataFrame({'SPY':spy.loadDate(date)['close'],'VXX':vxx.loadDate(date)['close']})$/;"	v
+parseDateTime	trading-with-python/trunk/lib/csvDatabase.py	/^def parseDateTime(dateTimeStr):$/;"	f
+parseStr	trading-with-python/trunk/lib/yahooFinance.py	/^def parseStr(s):$/;"	f
+parser	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    parser = argparse.ArgumentParser(description='Log ticks for a set of stocks')$/;"	v
+parser	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    parser = argparse.ArgumentParser(description='Log ticks for a set of stocks')$/;"	v
+pca	trading-with-python/trunk/lib/functions.py	/^def pca(A):$/;"	f
+pd	api-example.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/__init__.py	/^__docformat__ = 'restructuredtext'/;"	I
+pd	trading-with-python/trunk/lib/backtest.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/bats.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/cboe.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/classes.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/csvDatabase.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/extra.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/functions.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/indicators.py	/^import pandas as pd$/;"	I
+pd	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^import pandas as pd$/;"	I
+pd	x.py	/^import pandas as pd$/;"	I
+placeOrder	trading-with-python/trunk/lib/interactivebrokers.py	/^    def placeOrder(self, symbol, shares, limit=None, exchange='SMART', transmit=0):$/;"	m	class:Broker
+plot	trading-with-python/trunk/lib/widgets.py	/^    def plot(self,*args,**kwargs):$/;"	m	class:MatplotlibWidget
+plot	trading-with-python/trunk/lib/widgets.py	/^    def plot(self,dataFrame):$/;"	m	class:PlotWindow
+plotCorrelationMatrix	trading-with-python/trunk/lib/functions.py	/^def plotCorrelationMatrix(price, thresh = None):$/;"	f
+plotTrades	trading-with-python/trunk/lib/backtest.py	/^    def plotTrades(self):$/;"	m	class:Backtest
+plt	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	trading-with-python/trunk/lib/backtest.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	trading-with-python/trunk/lib/classes.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	trading-with-python/trunk/lib/functions.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	trading-with-python/trunk/lib/widgets.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	trading-with-python/trunk/sandbox/spreadCalculations.py	/^import matplotlib.pyplot as plt$/;"	I
+pnl	trading-with-python/trunk/lib/backtest.py	/^    def pnl(self):$/;"	m	class:Backtest
+portfolioHandler	trading-with-python/trunk/cookbook/connectToTWS.py	/^def portfolioHandler(msg):$/;"	f
+pos	trading-with-python/trunk/cookbook/calculatePnl.py	/^pos = Series(np.zeros(spy.shape[0]),index=spy.index)$/;"	v
+pos2pnl	trading-with-python/trunk/lib/functions.py	/^def pos2pnl(price,position , ibTransactionCost=False ):$/;"	f
+price	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^    def price(self,date):$/;"	m	class:Future
+priceHandler	trading-with-python/trunk/lib/interactivebrokers.py	/^    def priceHandler(self, msg):$/;"	m	class:Subscriptions
+priceHandler	trading-with-python/trunk/nautilus/nautilus.py	/^    def priceHandler(self,sender,event,msg=None):$/;"	m	class:PriceListener
+priceTicks	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^priceTicks = {1:'bid',2:'ask',4:'last',6:'high',7:'low',9:'close', 14:'open'}$/;"	v
+priceTicks	trading-with-python/trunk/lib/interactiveBrokers/extra.py	/^priceTicks = {1:'bid',2:'ask',4:'last',6:'high',7:'low',9:'close', 14:'open'} $/;"	v
+priceTicks	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^priceTicks = {1:'bid',2:'ask',4:'last',6:'high',7:'low',9:'close', 14:'open'}$/;"	v
+priceTicks	trading-with-python/trunk/lib/interactivebrokers.py	/^priceTicks = {1: 'bid', 2: 'ask', 4: 'last', 6: 'high', 7: 'low', 9: 'close', 14: 'open'}$/;"	v
+priceTicks	trading-with-python/trunk/nautilus/nautilus.py	/^priceTicks = {1:'bid',2:'ask',4:'last',6:'high',7:'low',9:'close', 14:'open'} $/;"	v
+price_tick_handler	trading-with-python/trunk/cookbook/ib_streamQuotes.py	/^def price_tick_handler(msg):$/;"	f
+printMessage	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^def printMessage(msg):$/;"	f
+printMessage	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^def printMessage(msg):$/;"	f
+printName	trading-with-python/trunk/nautilus/nautilus.py	/^    def printName(self):$/;"	m	class:TableView
+printTable	trading-with-python/trunk/sandbox/dataModels.py	/^    def printTable(self):$/;"	m	class:Symbols
+printTable	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def printTable(self,table):$/;"	m	class:Symbols
+processVector	trading-with-python/trunk/lib/functions.py	/^    def processVector(pnl): # process a single column$/;"	f	function:profitRatio	file:
+profitRatio	trading-with-python/trunk/lib/functions.py	/^def profitRatio(pnl):$/;"	f
+qtpandas	trading-with-python/trunk/nautilus/nautilus.py	/^import tradingWithPython.lib.qtpandas as qtpandas$/;"	I
+quote	trading-with-python/trunk/sandbox/spreadCalculations.py	/^quote = yahooFinance.getQuote(symbols)$/;"	v
+rank	trading-with-python/trunk/lib/functions.py	/^def rank(current,past):$/;"	f
+readActivityFlex	trading-with-python/trunk/lib/interactivebrokers.py	/^def readActivityFlex(fName):$/;"	f
+readBiggerScreener	trading-with-python/trunk/lib/functions.py	/^def readBiggerScreener(fName):$/;"	f
+recounstructVXX	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^def recounstructVXX():$/;"	f
+register	trading-with-python/trunk/lib/eventSystem.py	/^    def register(self,listener,events=None):$/;"	m	class:Sender
 reply_handler	api-example.py	/^def reply_handler(msg):$/;"	f
-tws_conn	api-example.py	/^    tws_conn = Connection.create(port=7496, clientId=100)$/;"	v
+requestData	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def requestData(self,contract,endDateTime,durationStr='1800 S',barSizeSetting='1 secs',whatT/;"	m	class:Downloader
+requestData	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def requestData(self,contract,endDateTime,durationStr='1 D',barSizeSetting='30 secs',whatToS/;"	m	class:Downloader
+requestData	trading-with-python/trunk/lib/interactivebrokers.py	/^    def requestData(self, contract, endDateTime, durationStr='1 D', barSizeSetting='30 secs', wh/;"	m	class:Downloader
+res	trading-with-python/trunk/sandbox/spreadCalculations.py	/^res = readBiggerScreener('CointPairs.csv')$/;"	v
+reset	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^    def reset(self):$/;"	m	class:DataHandler
+reset	trading-with-python/trunk/lib/interactiveBrokers/histData.py	/^    def reset(self):$/;"	m	class:_HistDataHandler
+reset	trading-with-python/trunk/lib/interactivebrokers.py	/^    def reset(self):$/;"	m	class:_HistDataHandler
+resizeColumnsToContents	trading-with-python/trunk/lib/qtpandas.py	/^    def resizeColumnsToContents(self):$/;"	m	class:DataFrameWidget
+returns	trading-with-python/trunk/cookbook/reconstructVXX/reconstructVXX.py	/^def returns(df):$/;"	f
+returns	trading-with-python/trunk/lib/classes.py	/^    def returns(self):$/;"	m	class:Portfolio
+returns	trading-with-python/trunk/lib/functions.py	/^def returns(df):$/;"	f
+rng	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^rng = date_range(start,end,freq='30min')$/;"	v
+rowCount	trading-with-python/trunk/lib/qtpandas.py	/^    def rowCount(self, index=QModelIndex()):$/;"	m	class:DataFrameModel
+rsi	trading-with-python/trunk/lib/indicators.py	/^def rsi(price, n=14):$/;"	f
+rsiCalc	trading-with-python/trunk/lib/indicators.py	/^    def rsiCalc(p):$/;"	f	function:rsi	file:
+s	trading-with-python/trunk/cookbook/calculateSpread.py	/^s = Spread(symbolX,symbolY)$/;"	v
+s	trading-with-python/trunk/lib/classes.py	/^    s = Spread(['SPY','IWM'])$/;"	v
+s	trading-with-python/trunk/sandbox/spreadCalculations.py	/^s = Spread(symbols,histClose=df, estimateBeta = False)$/;"	v
+sDate	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^sDate = (2005,1,1)$/;"	v
+save	trading-with-python/trunk/lib/yahooFinance.py	/^    def save(self,dataFile):$/;"	m	class:HistData
+saveData	trading-with-python/trunk/lib/csvDatabase.py	/^    def saveData(self,date, df,lowerCaseColumns=True):$/;"	m	class:HistDataCsv
+saveData	trading-with-python/trunk/lib/interactivebrokers.py	/^    def saveData(self):$/;"	m	class:BrokerWidget
+saveData	trading-with-python/trunk/lib/interactivebrokers.py	/^    def saveData(self, fname):$/;"	m	class:Broker
+saveVixFutureData	trading-with-python/trunk/cookbook/downloadVixFutures.py	/^def saveVixFutureData(year,month, path):$/;"	f
+saveVixFutureData	trading-with-python/trunk/cookbook/reconstructVXX/downloadVixFutures.py	/^def saveVixFutureData(year,month, path, forceDownload=False):$/;"	f
+scaleDraw	trading-with-python/trunk/cookbook/scales.py	/^    def scaleDraw(self):$/;"	m	class:DateTimeScaleEngine
+scaleDraw	trading-with-python/trunk/cookbook/scales.py	/^    def scaleDraw(self):$/;"	m	class:DeltaTimeScaleEngine
+setCapital	trading-with-python/trunk/lib/classes.py	/^    def setCapital(self,capital):$/;"	m	class:Portfolio
+setData	trading-with-python/trunk/lib/qtpandas.py	/^    def setData(self,index,value, role=Qt.EditRole):$/;"	m	class:DataFrameModel
+setDataFrame	trading-with-python/trunk/lib/qtpandas.py	/^    def setDataFrame(self,dataFrame):$/;"	m	class:DataFrameModel
+setDataFrame	trading-with-python/trunk/lib/qtpandas.py	/^    def setDataFrame(self,df):$/;"	m	class:DataFrameWidget
+setDatetimeLabelFormat	trading-with-python/trunk/cookbook/scales.py	/^    def setDatetimeLabelFormat(self, format):$/;"	m	class:TaurusTimeScaleDraw
+setFormat	trading-with-python/trunk/lib/qtpandas.py	/^    def setFormat(self,fmt):$/;"	m	class:DataFrameModel
+setFormat	trading-with-python/trunk/lib/qtpandas.py	/^    def setFormat(self,fmt):$/;"	m	class:DataFrameWidget
+setHistPrice	trading-with-python/trunk/lib/classes.py	/^    def setHistPrice(self,histPrice):$/;"	m	class:Portfolio
+setLabelFormat	trading-with-python/trunk/cookbook/scales.py	/^        def setLabelFormat(self, format):$/;"	m	class:FancyScaleDraw
+setPalette	trading-with-python/trunk/cookbook/scales.py	/^        def setPalette(self, palette):$/;"	m	class:FancyScaleDraw
+setScaleDraw	trading-with-python/trunk/cookbook/scales.py	/^    def setScaleDraw(self, scaleDraw):$/;"	m	class:DateTimeScaleEngine
+setScaleDraw	trading-with-python/trunk/cookbook/scales.py	/^    def setScaleDraw(self, scaleDraw):$/;"	m	class:DeltaTimeScaleEngine
+setShares	trading-with-python/trunk/lib/classes.py	/^    def setShares(self,shares):$/;"	m	class:Portfolio
+sharpe	trading-with-python/trunk/lib/backtest.py	/^    def sharpe(self):$/;"	m	class:Backtest
+sharpe	trading-with-python/trunk/lib/backtest.py	/^def sharpe(pnl):$/;"	f
+sharpe	trading-with-python/trunk/lib/functions.py	/^def sharpe(pnl):$/;"	f
+showMessageTypes	trading-with-python/trunk/cookbook/connectToTWS.py	/^def showMessageTypes():$/;"	f
+showTables	trading-with-python/trunk/sandbox/dataModels.py	/^    def showTables(self):$/;"	m	class:Symbols
+showTables	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def showTables(self):$/;"	m	class:Symbols
+signalUpdate	trading-with-python/trunk/lib/qtpandas.py	/^    def signalUpdate(self):$/;"	m	class:DataFrameModel
+sizeTicks	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^sizeTicks = {0:'bid',3:'ask',5:'last',8:'volume'}$/;"	v
+sizeTicks	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^sizeTicks = {0:'bid',3:'ask',5:'last',8:'volume'}$/;"	v
+someDate	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^someDate = dt.date(2011,8,1)$/;"	v
+sort	trading-with-python/trunk/lib/qtpandas.py	/^    def sort(self,nCol,order):  $/;"	m	class:DataFrameModel
+sourceDir	trading-with-python/trunk/createDistribution.py	/^sourceDir = 'lib'$/;"	v
+spread	trading-with-python/trunk/lib/classes.py	/^    def spread(self):$/;"	m	class:Spread
+spy	trading-with-python/trunk/cookbook/calculatePnl.py	/^spy = DataFrame.from_csv(dataFile)['SPY']$/;"	v
+spy	trading-with-python/trunk/lib/csvDatabase.py	/^    spy = HistDataCsv('SPY',dbDir)$/;"	v
+sql	trading-with-python/trunk/sandbox/dataModels.py	/^    def sql(self,query):$/;"	m	class:Symbols
+sql	trading-with-python/trunk/sandbox/spreadGroup.py	/^    def sql(self,query):$/;"	m	class:Symbols
+start	trading-with-python/trunk/cookbook/cython/testSpeed.py	/^start = time.clock()$/;"	v
+start	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^start = dt.datetime(2012,8,1)+datetools.relativedelta(hours=9,minutes=30)$/;"	v
+startDate	trading-with-python/trunk/cookbook/calculateSpread.py	/^startDate = (2010,1,1)$/;"	v
+startGui	trading-with-python/trunk/lib/interactivebrokers.py	/^def startGui():$/;"	f
+startGui	trading-with-python/trunk/sandbox/dataModels.py	/^def startGui():$/;"	f
+stkContract	api-example.py	/^    stkContract = create_contract('GOOG', 'STK', 'SMART', 'SMART', 'USD')$/;"	v
+stock_kwargs	x.py	/^    stock_kwargs = dict($/;"	v
+subscribeStk	trading-with-python/trunk/lib/interactivebrokers.py	/^    def subscribeStk(self, symbol, secType='STK', exchange='SMART', currency='USD'):$/;"	m	class:Broker
+subscribeStk	trading-with-python/trunk/nautilus/nautilus.py	/^    def subscribeStk(self,symbol, secType='STK', exchange='SMART',currency='USD'):$/;"	m	class:Broker
+subscriptions	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    subscriptions = {}$/;"	v
+symbol	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^symbol = 'SPY'$/;"	v
+symbolX	trading-with-python/trunk/cookbook/calculateSpread.py	/^symbolX = Symbol('SPY')$/;"	v
+symbolY	trading-with-python/trunk/cookbook/calculateSpread.py	/^symbolY = Symbol('IWM')$/;"	v
+symbols	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    symbols = args.symbols.strip().split(',')$/;"	v
+symbols	trading-with-python/trunk/lib/classes.py	/^    def symbols(self):$/;"	m	class:Portfolio
+symbols	trading-with-python/trunk/lib/interactiveBrokers/tickLogger.py	/^    symbols = args.symbols.strip().split(',')$/;"	v
+symbols	trading-with-python/trunk/lib/yahooFinance.py	/^    def symbols(self):$/;"	m	class:HistData
+symbols	trading-with-python/trunk/sandbox/spreadCalculations.py	/^symbols = ['SPY','IWM']$/;"	v
+t	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^    t = dt.date(2013,month,1)+datetools.relativedelta(months=1)$/;"	v
+t	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^t = dt.datetime(*time.strptime('3\/30\/2004',"%m\/%d\/%Y")[0:5])$/;"	v
+t_new	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^        t_new = t+3*offset$/;"	v
+t_new	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^    t_new = t_new-datetools.relativedelta(days=30)$/;"	v
+targetDir	trading-with-python/trunk/createDistribution.py	/^targetDir = 'dist\\\\tradingWithPython\\\\lib'$/;"	v
+testAccountUpdates	trading-with-python/trunk/cookbook/connectToTWS.py	/^def testAccountUpdates():$/;"	f
+testBroker	trading-with-python/trunk/lib/interactivebrokers.py	/^def testBroker():$/;"	f
+testConnection	trading-with-python/trunk/lib/interactivebrokers.py	/^def testConnection():$/;"	f
+testDf	trading-with-python/trunk/lib/qtpandas.py	/^def testDf():$/;"	f
+testDownload	trading-with-python/trunk/lib/cboe.py	/^def testDownload():$/;"	f
+testExecutions	trading-with-python/trunk/cookbook/connectToTWS.py	/^def testExecutions():$/;"	f
+testExpiration	trading-with-python/trunk/lib/cboe.py	/^def testExpiration():$/;"	f
+testFcn	trading-with-python/trunk/cookbook/guiqwt_CurveDialog.py	/^    def testFcn(self):$/;"	m	class:MainForm
+testFcn	trading-with-python/trunk/lib/qtpandas.py	/^    def testFcn(self):$/;"	m	class:Form
+testHistoricData	trading-with-python/trunk/cookbook/connectToTWS.py	/^def testHistoricData(con):$/;"	f
+testMarketData	trading-with-python/trunk/cookbook/connectToTWS.py	/^def testMarketData():$/;"	f
+testModel	trading-with-python/trunk/sandbox/dataModels.py	/^def testModel():$/;"	f
+testSubscriptions	trading-with-python/trunk/lib/interactivebrokers.py	/^def testSubscriptions():$/;"	f
+timeFormat	trading-with-python/trunk/historicDataDownloader/historicDataDownloader.py	/^timeFormat = "%Y%m%d %H:%M:%S"$/;"	v
+timeFormat	trading-with-python/trunk/lib/interactiveBrokers/extra.py	/^timeFormat = "%Y%m%d %H:%M:%S"$/;"	v
+timeFormat	trading-with-python/trunk/lib/interactivebrokers.py	/^timeFormat = "%Y%m%d %H:%M:%S"$/;"	v
+tk	trading-with-python/trunk/historicDataDownloader/timeKeeper.py	/^    tk = TimeKeeper()$/;"	v
+toHDF	trading-with-python/trunk/lib/csvDatabase.py	/^    def toHDF(self,dataFile,dates=None):$/;"	m	class:HistDatabase
+to_csv	trading-with-python/trunk/lib/vixFutures.py	/^    def to_csv(self,dataDir):$/;"	m	class:Future
+today	trading-with-python/trunk/cookbook/workingWithDatesAndTime.py	/^today = dt.date.today()$/;"	v
+tradeBracket	trading-with-python/trunk/lib/backtest.py	/^def tradeBracket(price,entryBar,upper=None, lower=None, timeout=None):$/;"	f
+tradeBracket	trading-with-python/trunk/lib/functions.py	/^def tradeBracket(price,entryBar,maxTradeLength,bracket):$/;"	f
+twp	trading-with-python/trunk/cookbook/ib_histData.py	/^import tradingWithPython as twp$/;"	I
+twp	trading-with-python/trunk/dist/setup.py	/^import tradingWithPython as twp$/;"	I
+tws	trading-with-python/trunk/cookbook/ib_logQuotes.py	/^    tws = ibConnection()$/;"	v
+tws	trading-with-python/trunk/cookbook/ib_placeOrder.py	/^tws = ibConnection() # create connection object$/;"	v
+tws	trading-with-python/trunk/cookbook/ib_streamQuotes.py	/^tws = ibConnection() # create connection object$/;"	v
+unregister	trading-with-python/trunk/lib/eventSystem.py	/^    def unregister(self,listener):$/;"	m	class:Sender
+unsubscribeStk	trading-with-python/trunk/lib/interactivebrokers.py	/^    def unsubscribeStk(self, symbol):$/;"	m	class:Broker
+update	trading-with-python/trunk/lib/widgets.py	/^    def update(self):$/;"	m	class:MatplotlibWidget
+update	trading-with-python/trunk/lib/widgets.py	/^    def update(self):$/;"	m	class:PlotWindow
+updateDb	trading-with-python/trunk/lib/bats.py	/^    def updateDb(self):$/;"	m	class:BATS_Data
+updateIntradayDb	trading-with-python/trunk/lib/vixFutures.py	/^    def updateIntradayDb(self,dbDir):$/;"	m	class:Future
+update_iteration	trading-with-python/trunk/lib/backtest.py	/^    def update_iteration(self, elapsed_iter):$/;"	m	class:ProgressBar
+update_iteration	trading-with-python/trunk/lib/extra.py	/^    def update_iteration(self, elapsed_iter):$/;"	m	class:ProgressBar
+urlStr	trading-with-python/trunk/cookbook/getDataFromYahooFinance.py	/^    urlStr = 'http:\/\/ichart.finance.yahoo.com\/table.csv?s={0}&a={1}&b={2}&c={3}&d={4}&e={5}&f/;"	v
+v	trading-with-python/trunk/lib/cboe.py	/^    v = VixFuture(2011,11)$/;"	v
+value	trading-with-python/trunk/lib/classes.py	/^    def value(self):$/;"	m	class:Portfolio
+vixExpiration	trading-with-python/trunk/lib/cboe.py	/^def vixExpiration(year,month):$/;"	f
+vxx	trading-with-python/trunk/lib/csvDatabase.py	/^    vxx = HistDataCsv('VXX',dbDir)$/;"	v
+watcher	trading-with-python/trunk/cookbook/connectToTWS.py	/^def watcher(msg):$/;"	f
+y	trading-with-python/trunk/sandbox/spreadCalculations.py	/^y = yahooFinance.HistData('temp.csv')$/;"	v
+yahoo	trading-with-python/trunk/lib/classes.py	/^import yahooFinance as yahoo$/;"	I
+year	trading-with-python/trunk/lib/vixFutures.py	/^    year = 2012$/;"	v
+yf	trading-with-python/trunk/lib/bats.py	/^import yahooFinance as yf$/;"	I
