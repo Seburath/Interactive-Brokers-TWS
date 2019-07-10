@@ -5,7 +5,7 @@ IbPy2 and tws-api are both wrapers for the java API of the TWS platform of Inter
 
 <img
   src="tws.png"
-  alt="Superset"
+  alt="tws"
   width="100%"
 />
 
